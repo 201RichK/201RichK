@@ -3,6 +3,7 @@
 -   💻 I'm a software engineering working at @kaanari.
 -   🏡 I live in Abidjan in Ivory Coast.
 -   📫 You can reach me to ask for help any problem via: [Linkedin](https://www.linkedin.com/in/amos-pascal-amos-645a0418a), [Twitter](https://twitter.com/giau_tm), Discord (`201Rich_K#2259`)
+-   💻 Gitlab account [Gitlab](https://gitlab.com/amos12)
 
 Nice to meet you!
 
