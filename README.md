@@ -7,10 +7,10 @@
 
 Nice to meet you!
 
-<a href="https://github.com/201RichK">
+<!-- <a href="https://github.com/201RichK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=201RichK&show_icons=true&theme=merko&count_private=true" alt="201RichK's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=201RichK&theme=merko&layout=compact&hide=html,css" alt="201RichK's github top languages" />
-</a>
+</a> -->
 <!--
 **201RichK/201RichK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
