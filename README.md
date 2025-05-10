@@ -1,26 +1,41 @@
-### Hi, I'm Amos Pascal. 👋
+### Hey there, I'm Amos-Pascal! 👋
 
--   💻 I'm a software engineering working at [Kaanari](https://kaanari.com/).
--   🏡 I live in Abidjan in Ivory Coast.
--   📫 You can reach me to ask for help any problem via: [Linkedin](https://www.linkedin.com/in/amos-pascal-amos-645a0418a), [Twitter](https://twitter.com/201RichK), Discord (`201Rich_K#2259`)
--   💻 Gitlab account [Gitlab](https://gitlab.com/amos12)
+🚀 Passionate Software Engineer from **Abidjan, Côte d'Ivoire**  
+🧠 Builder. Problem Solver. Open Source Enthusiast.  
+🌍 I love turning **ideas into code** and contributing to tech communities.
 
-Nice to meet you!
+---
 
-<!-- <a href="https://github.com/201RichK">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=201RichK&show_icons=true&theme=merko&count_private=true" alt="201RichK's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=201RichK&theme=merko&layout=compact&hide=html,css" alt="201RichK's github top languages" />
-</a> -->
-<!--
-**201RichK/201RichK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Toolbox  
+Some of the tools and languages I work with:
 
-Here are some ideas to get you started:
+`Golang` | `Node.js` | `TypeScript` | `Python` | `Docker` | `PostgreSQL` | `FastAPI` | `Redis` | `GitLab CI/CD`  
+...and always exploring more 🚀
 
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ...
-    -->
+---
+
+### 🌱 Currently Exploring
+
+- Building tools and APIs that scale.
+- Improving DevOps workflows with Docker & GitLab CI/CD.
+- Launching open source projects for African dev communities 🌍
+- Integrating AI into backend systems with:
+  - 🧠 [Haystack](https://haystack.deepset.ai/) for building intelligent search & QA systems.
+  - 🤗 [Hugging Face Transformers](https://huggingface.co/transformers) for NLP and LLM tasks.
+  - 🚀 [FastAPI](https://fastapi.tiangolo.com/) + Pydantic + [ONNX](https://onnx.ai/) / [TorchServe](https://pytorch.org/serve/) for serving machine learning models via REST APIs.
+  - 📊 [Langfuse](https://langfuse.com/) / [Helicone](https://www.helicone.ai/) for LLM observability and production debugging.
+
+---
+
+### 💬 Let's Connect
+
+📬 [LinkedIn](https://www.linkedin.com/in/amos-pascal-amos-645a0418a)  
+🐦 [Twitter / X](https://x.com/Aokaze_San)  
+💬 Discord: `201Rich_K#2259`  
+📁 [GitLab](https://gitlab.com/amos12)
+
+
+
+
+
+_“Code is the closest thing we have to magic.” ✨_
