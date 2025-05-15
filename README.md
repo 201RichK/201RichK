@@ -18,7 +18,7 @@ Some of the tools and languages I work with:
 
 - Building tools and APIs that scale.
 - Improving DevOps workflows with Docker & GitLab CI/CD.
-- Launching open source projects for African dev communities 🌍
+- Launching open source projects 🌍
 - Integrating AI into backend systems with:
   - 🧠 [Haystack](https://haystack.deepset.ai/) for building intelligent search & QA systems.
   - 🤗 [Hugging Face Transformers](https://huggingface.co/transformers) for NLP and LLM tasks.
