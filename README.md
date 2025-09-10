@@ -30,7 +30,7 @@ Some of the tools and languages I work with:
 ### 💬 Let's Connect
 
 📬 [LinkedIn](https://www.linkedin.com/in/amos-pascal-amos-645a0418a)  
-🐦 [Twitter / X](https://x.com/Aokaze_San)  
+🐦 [Twitter / X](https://x.com/ampsql)  
 💬 Discord: `201Rich_K#2259`  
 📁 [GitLab](https://gitlab.com/amos12)
 
