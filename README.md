@@ -9,7 +9,8 @@
 ### 🛠️ Tech Toolbox  
 Some of the tools and languages I work with:
 
-`Golang` | `Node.js` | `TypeScript` | `Python` | `Docker` | `PostgreSQL` | `FastAPI` | `Redis` | `GitLab CI/CD` | `RabbitMQ`
+`Golang` | `Node.js` | `TypeScript` | `Python` | `Docker` | `PostgreSQL` | `FastAPI` | `Redis` | `GitLab CI/CD` | `RabbitMQ` 
+
 ...and always exploring more 🚀
 
 ---
